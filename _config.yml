@@ -40,7 +40,7 @@ prose:
         field:
           element: "text"
           label: 'Author Birthday'
-          placeholder: "Author\'s birthday"
+          placeholder: "Author birthday"
       - name: "image_teaser"
         field:
           label: "Preview Image"
